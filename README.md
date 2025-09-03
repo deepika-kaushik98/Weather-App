@@ -80,7 +80,8 @@ weather-now/
 
 ##  Screenshots
 
-<img width="1901" height="949" alt="Screenshot 2025-09-03 083252" src="https://github.com/user-attachments/assets/be7ecfe9-d8b3-4711-80fb-57cb76ce30fa" />
+<img width="1901" height="949" alt="Screenshot 2025-09-03 083252" src="https://github.com/user-attachments/assets/68a91b7a-0277-437d-942f-df7dd06772c0" />
+
 
 
 ---
